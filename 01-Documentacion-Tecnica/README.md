@@ -15,5 +15,7 @@ posibles errores durante la instalación.
 También se incluyen casos de uso, reporte de bugs y documentación complementaria relacionada con el análisis, desarrollo y 
 evaluación de los proyectos.
 
+##
+
 **Nota:** Los documentos originales fueron editados para eliminar logotipos institucionales y datos sensibles antes de su publicación
 en este portafolio.
